@@ -12,3 +12,6 @@ Or do it all at once:
 
 > go run ./cmd/*
 
+To create a docker image:
+> docker build -t app:v1 .
+
